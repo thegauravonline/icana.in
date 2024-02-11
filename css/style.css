@@ -1892,7 +1892,7 @@ img{
 
 .banner-carousel .content-box .info-list{
 	position: relative;
-	margin-top: 10px;
+	margin-top: 50px;
 	margin-bottom: 15px;
 	opacity: 0;
 	-webkit-transform: translateY(100px);
@@ -2795,7 +2795,7 @@ img{
 
 .about-section-two .content-column .inner-column{
 	position: relative;
-	padding-top: 50px;
+	padding-top: 5px;
 }
 
 .about-section-two .content-column .sec-title{
@@ -5497,7 +5497,7 @@ img{
 
 .pricing-section{
 	position: relative;
-	padding: 120px 0 80px;
+	padding: 40px 0 40px;
 	overflow: hidden;
 }
 
