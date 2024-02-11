@@ -933,7 +933,7 @@ img{
 
 .sec-title{
 	position:relative;
-	margin-bottom:70px;
+	margin-bottom:40px;
 }
 
 .sec-title .title{
@@ -2784,12 +2784,12 @@ img{
 
 .about-section-two{
 	position: relative;
-	padding: 120px 0 70px;
+	padding: 40px 0 20px;
 }
 
 .about-section-two .content-column{
 	position: relative;
-	margin-bottom: 50px;
+	margin-bottom: 0px;
 }
 
 .about-section-two .content-column .inner-column{
@@ -2860,7 +2860,7 @@ img{
 
 .about-section-two .image-column{
 	position: relative;
-	margin-bottom: 50px;
+	margin-bottom: 0px;
 }
 
 .about-section-two .image-column .image-box{
@@ -6230,7 +6230,7 @@ img{
 
 .faq-section{
 	position: relative;
-	padding: 120px 0 90px;
+	padding: 0px 0 40px;
 }
 
 .faq-section .content-column{
@@ -6433,7 +6433,7 @@ img{
 .why-choose-us{
 	position: relative;
 	background-color: #fafafa;
-	padding: 120px 0 70px;
+	padding: 40px 0 20px;
 }
 
 .why-choose-us .image-column{
