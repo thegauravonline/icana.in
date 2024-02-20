@@ -512,7 +512,13 @@ color:#ffffff;
 /* List Style One */
 
 .list-style-one{
-	position:relative;
+	position: relative;
+	font-size: 16px;
+	line-height: 26px;
+	color: #444444;
+	font-weight: 400;
+	padding-left: 35px;
+	margin-bottom: 10px;
 }
 
 .list-style-one li{
@@ -5360,7 +5366,7 @@ img{
 
 .event-detail{
 	position: relative;
-	padding: 30px 0 90px;
+	padding: 30px 0 30px;
 }
 
 .event-detail .auto-container{
